@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-tr1e28.saturadar88win.xyz/sitemap.xml
